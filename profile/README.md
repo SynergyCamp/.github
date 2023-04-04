@@ -14,7 +14,7 @@ To join SynergyCamp, please contact the organization owner and request an invita
 
 To contribute to an existing project, please follow these steps:
 
-1.  🔍 Find a project that interests you from the list of ongoing projects in the README.md file.
+1.  🔍 Find a project that interests you.
 2.  📖 Read the project's README.md file.
 3.  💻 Clone the project's repository to your local machine.
 4.  🛠️ Make the necessary changes or additions to the project.
