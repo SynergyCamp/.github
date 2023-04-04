@@ -2,7 +2,7 @@
 
 ## Introduction 🚀
 
-SynergyCamp is an initiative for the 📝 print("code karlo") community to learn and collaborate on coding projects. All members who are passionate about coding and eager to learn from others are welcome to participate! 🤝
+SynergyCamp is an initiative for the ***print("code karlo")*** community to learn and collaborate on coding projects. All members who are passionate about coding and eager to learn from others are welcome to participate! 🤝
 
 ## Getting Started 🏁
 
@@ -10,7 +10,7 @@ SynergyCamp is an initiative for the 📝 print("code karlo") community to learn
 
 To join SynergyCamp, please contact the organization owner and request an invitation. Once you've received an invitation, you'll be able to join the organization, create new projects, and contribute to ongoing projects. 👍
 
-### Contributing to Projects 🤝
+### Contributing to Projects 🙌
 
 To contribute to an existing project, please follow these steps:
 
